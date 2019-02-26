@@ -13,5 +13,5 @@ There are several commands you can use:
 `do-what-it-says`: Reads the text file random.txt and executes the command (with input) from the file.
 
 For further referense and proof of functionality, see the screenshots below:
-![alt text]("Screen Shot 2019-02-25 at 6.42.45 PM.png")
-![alt text]("Screen Shot 2019-02-25 at 6.53.44 PM.png")
+<img src = "Screen Shot 2019-02-25 at 6.42.45 PM.png">
+<img src = "Screen Shot 2019-02-25 at 6.53.44 PM.png">
